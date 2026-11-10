@@ -1,18 +1,16 @@
 {
-  "ProxyDeniqa": {
-    "skin": "https://felixzufa-design.github.io/skins/ProxyDeniqa.png",
-    "cape": "https://felixzufa-design.github.io/skins/capes/ProxyDeniqa.png"
-  },
-  "FallenDenica": {
-    "skin": "https://felixzufa-design.github.io/skins/FallenDenica.png"
-  },
+  "ProxyDeniqa": "https://felixzufa-design.github.io/skins/ProxyDeniqa.png",
+  "FallenDenica": "https://felixzufa-design.github.io/skins/FallenDenica.png",
   "Popenxi": {
-    "skin": "https://felixzufa-design.github.io/skins/Popenxi.png"
+    "skin": "https://felixzufa-design.github.io/skins/Popenxi.png",
+    "model": "wide"
   },
   "w1lka354": {
-    "skin": "https://felixzufa-design.github.io/skins/w1lka354.png"
+    "skin": "https://felixzufa-design.github.io/skins/w1lka354.png",
+    "model": "wide"
   },
   "Yabkovishnovic": {
-    "skin": "https://felixzufa-design.github.io/skins/Yabkovishnovic.png"
+    "skin": "https://felixzufa-design.github.io/skins/Yabkovishnovic.png",
+    "model": "wide"
   }
 }
