@@ -1,5 +1,8 @@
 {
-  "ProxyDeniqa": "https://felixzufa-design.github.io/skins/ProxyDeniqa.png",
+  "ProxyDeniqa": {
+    "skin": "https://felixzufa-design.github.io/skins/ProxyDeniqa.png",
+    "cape": "https://felixzufa-design.github.io/skins/capes/ProxyDeniqa.png"
+  },
   "FallenDenica": "https://felixzufa-design.github.io/skins/FallenDenica.png",
   "Popenxi": {
     "skin": "https://felixzufa-design.github.io/skins/Popenxi.png",
